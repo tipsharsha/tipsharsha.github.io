@@ -1,0 +1,8 @@
+# app-ads.txt for Crownfall
+#
+# AdMob publisher ID pub-1906334692075163. The trailing f08c47fec0942fa0 is
+# Google's fixed certification ID.
+#
+# This file must be reachable at the ROOT of the developer website listed on
+# the Play Store page. See docs/README.md.
+google.com, pub-1906334692075163, DIRECT, f08c47fec0942fa0

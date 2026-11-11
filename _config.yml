@@ -1,0 +1,6 @@
+title: Crownfall
+description: A daily logic puzzle for Android.
+theme: jekyll-theme-minimal
+# app-ads.txt is plain text and must be served untouched.
+include:
+  - app-ads.txt
